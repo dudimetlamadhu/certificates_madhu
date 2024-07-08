@@ -1,0 +1,10 @@
+1)git init        //empty git repository creates (git switch main if possible )
+2)git add .       //warning shows ntg will be happen
+for checking : git status   (it shows all are green)
+3)git commit -m "commit message"    ex:"files added"
+4)git branch -M main (if branch is master/main see that)
+5)git remote add origin <GitHub link>
+6)git push -u origin main   (again error for branch meassage )
+again type command :git push -u origin master
+last : git status
+again : git remote add origin link ex:http://dudimr......
